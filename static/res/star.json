@@ -1,0 +1,26 @@
+{ 
+    
+    "star": [
+        
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   20, 42  ,  45, 25  ,  71, 25  ,  36, 54  ,  14, 68  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   36, 54  ,  51, 42  ,  57, 68  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   45, 25  ,  20, 42  ,  26, 24  ,  35, 0  ]
+        } ,
+        {
+            "density": 2, "friction": 0, "bounce": 0, 
+            "filter": { "categoryBits": 1, "maskBits": 65535 },
+            "shape": [   26, 24  ,  20, 42  ,  -1, 25  ]
+        }
+    ]
+}
