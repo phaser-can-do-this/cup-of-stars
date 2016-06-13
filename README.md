@@ -1,8 +1,11 @@
 A Cup of stars, borrow from starbucks app 
 -----------------------------------------
 
-one day, have coffee with wife. I noticed the starbucks APP had a very nice
- cup of stars to demonstrate the member level.  So i decide to make this small demo
+one day, have coffee with wife. I noticed the starbucks APP had a very nice 
+cup of stars to demonstrate the member level.  So i decide to make this small demo.
+
+But the most important thing is to having coffee with the one you love
+ 
  
  
  
