@@ -1,20 +1,25 @@
-Phaser game develop boilerplate
--------------------------------
+A Cup of stars, borrow from starbucks app 
+-----------------------------------------
 
-## how to use
+one day, have coffee with wife. I noticed the starbucks APP had a very nice
+ cup of stars to demonstrate the member level.  So i decide to make this small demo
+ 
+ 
+ 
+## demo
+
+![screen](https://raw.githubusercontent.com/phaser-can-do-this/cup-of-stars/master/screen.gif)
+
+
+
+## how to run 
 
 1. git clone the project
 2. npm in 
 3. node devServer.js
 4. open browser <http://127.0.0.1:4000>
-5. write your game , auto fresh in browser
-6. use gulp to build your game (in `build` folder )
 
+if you want release it just use `gulp` to build
 
-### screen shot
-
-![screen](https://raw.githubusercontent.com/stormslowly/phaser-webpack-es6-boilerplate/master/screen.png)
-
-the rainbow test is borrowed from <https://github.com/belohlavek/phaser-es6-boilerplate>. it's also a nice phaser boilerplate
 
 -have fun-
